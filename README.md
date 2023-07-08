@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolasMufamadi
 - 👀 I’m interested in Software Development. 
-- 🥇 I’ve worked with javascript, node.js, express.js vue.js, react, react-native 
+- 🥇 I know javascript, node.js, express.js vue.js, react, react-native 
 - 📫 Reach me on my email: mufamadianwani@gmail.com, phone: 0766904433
 
 <!---
